@@ -50,9 +50,10 @@ Here are some ideas to get you started:
  </div>
   
 
-
-
-![Darshan Naik](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+  <br/>
+  <div align="center" >
+	
+![Darshan Naik](https://media-exp1.licdn.com/dms/image/C4D16AQE2cggLzKI5PA/profile-displaybackgroundimage-shrink_200_800/0/1615865200544?e=1631145600&v=beta&t=WhuKjf6Xn-Ik1QYnmwzEOW0vYj9w3ypPVO4EwFmMaFk)
   
-
+ </div>
   
