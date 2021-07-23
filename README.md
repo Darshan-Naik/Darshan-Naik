@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning **React-Native / TypeScript**
+- 🌱 I’m currently learning **React-Native / TypeScript/Next.JS**
 - 💬 Ask me about **JavaScript / React-JS / HTML / CSS** 
 - 📫 How to reach me: **darshu8314@gmail.com**
 - ⚡ Fun fact:  **I ❤️ Photography**
