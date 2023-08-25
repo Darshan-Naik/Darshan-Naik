@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <div align="center" >
  <a href="https://www.linkedin.com/in/darshannaik1995">
    <img src="https://img.icons8.com/nolan/50/linkedin.png"/> </a>
-	<a href="https://darshannaik.tech/">
+	<a href="https://darshan-naik.web.app">
     <img src="https://img.icons8.com/nolan/50/domain.png"/>
   </a>
   <a href="https://medium.com/@darshu8314">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <br/>
   <div align="center" >
 	
-![Darshan Naik](https://media-exp1.licdn.com/dms/image/C4D16AQE2cggLzKI5PA/profile-displaybackgroundimage-shrink_200_800/0/1615865200544?e=1631145600&v=beta&t=WhuKjf6Xn-Ik1QYnmwzEOW0vYj9w3ypPVO4EwFmMaFk)
+![Darshan Naik](https://media.licdn.com/dms/image/C4D16AQE2cggLzKI5PA/profile-displaybackgroundimage-shrink_350_1400/0/1615865200544?e=1698278400&v=beta&t=REUHyeCkF9S_SpX5joq5EPyjd9uBsP6VimWj93b91bI)
   
  </div>
   
