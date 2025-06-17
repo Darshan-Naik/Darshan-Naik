@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Something New**
 - 💬 Ask me about **JavaScript / React-JS / HTML / CSS  / TypeScript / Next.JS**
-- 📫 How to reach me: **darshannaik.com**
+- 📫 How to reach me: **www.darshannaik.com**
 - ⚡ Fun fact:  **I ❤️ Photography**
 
 ## 🛠 Interests/Skills
