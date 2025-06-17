@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <div align="center" >
  <a href="https://www.linkedin.com/in/darshannaik1995">
    <img src="https://img.icons8.com/nolan/50/linkedin.png"/> </a>
-	<a href="https://darshan-naik.web.app">
+	<a href="https://darshannaik.com">
     <img src="https://img.icons8.com/nolan/50/domain.png"/>
   </a>
   <a href="https://medium.com/@darshu8314">
