@@ -53,7 +53,9 @@ Here are some ideas to get you started:
   <br/>
   <div align="center" >
 	
-![Darshan Naik](https://darshannaik.com)
+<a href="https://darshannaik.com">
+    Darshan Naik
+  </a>
   
  </div>
   
