@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <br/>
   <div align="center" >
 	
-![Darshan Naik](https://media.licdn.com/dms/image/C4D16AQE2cggLzKI5PA/profile-displaybackgroundimage-shrink_350_1400/0/1615865200544?e=1698278400&v=beta&t=REUHyeCkF9S_SpX5joq5EPyjd9uBsP6VimWj93b91bI)
+![Darshan Naik](https://darshannaik.com)
   
  </div>
   
