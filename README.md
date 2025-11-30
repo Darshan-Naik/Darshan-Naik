@@ -1,61 +1,94 @@
-### Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=ffc446&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Darshan+Naik;Creator+of+Qortex;I+Design+and+Ship+Thoughtful+Products" />
+</p>
 
-**I love building creative applications** 
-Here are some ideas to get you started:
+# Darshan Naik  
+**SDE 3 at Meesho • Frontend Architect • Creator of Qortex**
 
+I design and ship thoughtful, elegant front-end systems.  
+At Meesho, I help lead the evolution of **Web Platform, Performance and Frontend Engineering** across high-scale product surfaces.
 
-- 🌱 I’m currently learning **Something New**
-- 💬 Ask me about **JavaScript / React-JS / HTML / CSS  / TypeScript / Next.JS**
-- 📫 How to reach me: **www.darshannaik.com**
-- ⚡ Fun fact:  **I ❤️ Photography**
+My work sits at the intersection of design, performance and engineering craftsmanship.
 
-## 🛠 Interests/Skills
- <br/>
- 
-<div align="center" >
-  
-  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  
-  </div>
-  
- <br/>
- 
- ## 👷 Stats So Far
- 
-  <br/>
-  
-  <div align="center" >
-  
- ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-Naik&theme=dark&show_icons=true);
-  
-  </div>
-  
-  ## ☕ Let's Connect
-    
-  <div align="center" >
- <a href="https://www.linkedin.com/in/darshannaik1995">
-   <img src="https://img.icons8.com/nolan/50/linkedin.png"/> </a>
-	<a href="https://darshannaik.com">
-    <img src="https://img.icons8.com/nolan/50/domain.png"/>
-  </a>
-  <a href="https://medium.com/@darshu8314">
-     <img src="https://img.icons8.com/nolan/50/medium-new.png"/> </a>
- </div>
-  
+---
 
-  <br/>
-  <div align="center" >
-	
-<a href="https://darshannaik.com">
-    Darshan Naik
-  </a>
-  
- </div>
-  
+## What I Build
+
+### **Qortex — Minimal, Modular async Query/Data Management for React**
+Creator & Maintainer
+
+Qortex is designed for engineers who value:
+- predictable, simple state models  
+- zero unnecessary rerenders  
+- modular stores with composable APIs  
+- a DX that feels “invisible”  
+
+**Website:** https://qortex.darshannaik.com  
+**Install:** `npm i qortex-react`
+
+---
+
+### **Apps & Experiments**
+A curated portfolio of micro-products, utilities and UI explorations.  
+I use this space to prototype ideas, test patterns and experiment with UI motion and architecture.
+
+**Portfolio:** https://apps.darshannaik.com
+
+---
+
+## Approach & Principles
+- Build products, not just software  
+- Prefer clarity over cleverness  
+- Systems should feel inevitable, not accidental  
+- Fast iteration beats heavy planning  
+- Developer experience matters as much as user experience  
+
+---
+
+## Tech & Tools  
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-111827?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111827?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-111827?style=for-the-badge&logo=node.js)
+![Architecture](https://img.shields.io/badge/-System%20Design-111827?style=for-the-badge)
+![Performance](https://img.shields.io/badge/-Web%20Performance-111827?style=for-the-badge)
+![DX](https://img.shields.io/badge/-Developer%20Experience-111827?style=for-the-badge)
+
+</div>
+
+---
+
+## Highlights
+- **SDE III at Meesho**, leading Web Platform & Frontend Tech  
+- **Creator & Maintainer** of Qortex  
+- Built numerous apps, tools and internal systems  
+- Experienced in architecture, performance tuning, platform design and complex UI systems  
+
+---
+
+## GitHub Stats  
+<div align="center">
+
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-Naik&theme=default&show_icons=true&hide_border=true)
+
+</div>
+
+---
+
+## Let's Connect  
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/darshannaik1995) • [Website](https://darshannaik.com) • [Medium](https://medium.com/@darshu8314)
+
+</div>
+
+---
+
+<blockquote align="center">
+  <em>“Creativity is Intelligence Having Fun...!”</em><br/>
+  — Darshan Naik
+</blockquote>
