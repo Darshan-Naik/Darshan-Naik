@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=ffc446&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Darshan+Naik;Creator+of+Qortex;I+Design+and+Ship+Thoughtful+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=ffc446&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Darshan+Naik;Creator+of+Qortex and Vault;I+Design+and+Ship+Thoughtful+Products" />
 </p>
 
 # Darshan Naik  
-**SDE 3 at Meesho • Frontend Architect • Creator of Qortex**
+**SDE 3 at Meesho • Frontend Architect • Creator of Qortex and Vault**
 
 I design and ship thoughtful, elegant front-end systems.  
 At Meesho, I help lead the evolution of **Web Platform, Performance and Frontend Engineering** across high-scale product surfaces.
@@ -27,6 +27,20 @@ Qortex is designed for engineers who value:
 **Website:** https://qortex.darshannaik.com  
 **Install:** `npm i qortex-react`
 
+### **Vault — A screat store for your passwords**
+Creator & Maintainer
+
+Vault is designed for people store there screates securly:
+- **Zero-Knowledge Security** — Your password and recovery key are never stored or transmitted
+- **End-to-End Encryption** — All vault data is encrypted client-side using AES-256-CBC
+- **Master Key Architecture** — A unique master key encrypts your data, protected by your password
+- **Recovery Key Backup** — One-time recovery key for password reset (invalidated after use)
+- **PIN Quick Unlock** — Fast re-entry after inactivity without re-entering your password
+- **Biometric Support** — Use fingerprint or face recognition for quick unlock
+- **PWA Ready** — Install as a native-like app on any device
+- **Google Authentication** — Secure sign-in with your Google account 
+
+**Website:** https://vault.darshannaik.com  
 ---
 
 ### **Apps & Experiments**
