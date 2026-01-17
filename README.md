@@ -30,15 +30,13 @@ Qortex is designed for engineers who value:
 ### **Vault — A screat store for your passwords**
 Creator & Maintainer
 
-Vault is designed for people store there screates securly:
+Vault is designed for people who want to store their secrets securely with privacy-first architecture and modern security practices.
 - **Zero-Knowledge Security** — Your password and recovery key are never stored or transmitted
 - **End-to-End Encryption** — All vault data is encrypted client-side using AES-256-CBC
 - **Master Key Architecture** — A unique master key encrypts your data, protected by your password
 - **Recovery Key Backup** — One-time recovery key for password reset (invalidated after use)
-- **PIN Quick Unlock** — Fast re-entry after inactivity without re-entering your password
-- **Biometric Support** — Use fingerprint or face recognition for quick unlock
+- **Biometric Support** — Use fingerprint or face recognition or pin for quick unlock
 - **PWA Ready** — Install as a native-like app on any device
-- **Google Authentication** — Secure sign-in with your Google account 
 
 **Website:** https://vault.darshannaik.com  
 ---
