@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=ffc446&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Darshan+Naik;Creator+of+Qortex and Vault;I+Design+and+Ship+Thoughtful+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=ffc446&center=true&vCenter=true&width=720&lines=Hi+there,+I'm+Darshan+Naik;Creator+of+Qortex+and+Vault;I+Design+and+Ship+Thoughtful+Products" />
 </p>
 
 # Darshan Naik  
